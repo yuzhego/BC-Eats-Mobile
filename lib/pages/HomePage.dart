@@ -22,7 +22,6 @@ class _HomePageState extends State<HomePage> {
     Settings(),
   ];
   //navigating through the pages
-  // Marcella was here
   int _selectedIndex = 1;
 //Sets Feed to default page when app is opened
   void _onPageChanged(int index) {
