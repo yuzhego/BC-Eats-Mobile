@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//notification page
 class Notifications extends StatefulWidget {
   Notifications({Key key}) : super(key: key);
 

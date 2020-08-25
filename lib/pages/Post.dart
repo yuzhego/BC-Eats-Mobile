@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//post page
 class Post extends StatefulWidget {
   Post({Key key}) : super(key: key);
 

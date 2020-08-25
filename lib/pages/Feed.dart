@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//feed page
 class Feed extends StatefulWidget {
   Feed({Key key}) : super(key: key);
 
