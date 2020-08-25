@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-//agreement page
 class Agreement extends StatefulWidget {
   Agreement({Key key}) : super(key: key);
 
